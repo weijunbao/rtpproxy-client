@@ -1,0 +1,25 @@
+#summary RTPProxy server protocol
+#labels Development,Documentation
+
+Available RTPProxy server commands are listed in http://www.b2bua.org/wiki/RTPproxy/Protocol but command format details and processing logic are missing. So this document describes what we figured out from source code analysis and tests.
+
+= Command Format =
+
+The general command format is:
+
+{{{
+COOKIE COMMAND ARGUMENTS
+}}}
+
+ * _COOKIE_ is an arbitrary string identifying the the command. The response for that command will have the same prefix.
+
+ * _COMMAND_ and _ARGUMENTS_ are that described in the [http://www.b2bua.org/wiki/RTPproxy/Protocol RTPProxy Protocol documentation].
+
+<br>
+
+= Response Codes = 
+
+|| *Code* || *Command* || *Description* ||
+|| E0 || any || Syntax error ||
+|| E3 || any || Unknown command ||
+|| E8 || D_(elete)_ || delete request failed: session _CALL_ID_, tags _FROMTAG_/_TOTAG_ not found ||
