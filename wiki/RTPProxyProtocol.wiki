@@ -1,7 +1,7 @@
 #summary RTPProxy server protocol
 #labels Development,Documentation
 
-Available RTPProxy server commands are listed in http://www.b2bua.org/wiki/RTPproxy/Protocol but command and response format details are missing. So this document describes what we figured out from source code analysis and tests.
+The available RTPProxy server commands are listed in http://www.b2bua.org/wiki/RTPproxy/Protocol but command and response format details are missing. So this document describes what we figured out from source code analysis and tests.
 
 = Command Format =
 
