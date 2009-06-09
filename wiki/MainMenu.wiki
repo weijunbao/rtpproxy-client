@@ -1,5 +1,5 @@
 #summary MainMenu used as default sidebar.
 
- * [MainPage?tm=6 Home/Search]
+ * [MainPage Home/Search]
  * [RTPProxyProtocol RTPProxy Protocol]
  * [RTPProxyArchtecture API Design]
