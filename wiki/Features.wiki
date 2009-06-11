@@ -1,4 +1,5 @@
 #summary Feature list of the last API version.
+#labels Featured
 
 == Operations ==
  * *create*: Create a new session with the callee media address;
