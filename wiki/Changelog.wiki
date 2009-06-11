@@ -1,0 +1,12 @@
+#summary Changelog of project versions.
+
+= Version 0.1 =
+
+ * Operations
+   * *create*: Create a new session with the callee media address;
+   * *update*: Update a existing session to create the caller media address;
+   * *destroy*: Delete a existent in the RTPPRoxy;
+
+ * Server scheduling
+   * *static*: Always use the first server of the configured server list.
+   * *round-robin*: Equally balance the requests for all configured servers.
