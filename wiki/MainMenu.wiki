@@ -1,6 +1,7 @@
 #summary MainMenu used as default sidebar.
 
  * [MainPage Home/Search]
+ * [Features Features]
  * [Changelog Changelog]
  * [RTPProxyProtocol RTPProxy Protocol]
  * [RTPProxyArchtecture API Design]
