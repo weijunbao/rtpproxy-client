@@ -1,7 +1,7 @@
 #summary Feature list of the rtpproxy-client-api.
 #labels Featured
 
-Features of *rtpproxy-client-api-0.1*.
+Features available in *rtpproxy-client-api* version *0.1*.
 
 == Operations ==
  * *create*: Create a new session containing the the callee's media address. It supports  caller's address pre-filling;
