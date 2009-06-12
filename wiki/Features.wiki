@@ -2,8 +2,8 @@
 #labels Featured
 
 == Operations ==
- * *create*: Create a new session with the callee media address;
- * *update*: Update a existing session to create the caller media address;
+ * *create*: Create a new session containing the the callee's media address. It supports  caller's address pre-filling;
+ * *update*: Update a existing session to create the caller's media address. It supports  callee's address pre-filling;
  * *destroy*: Delete a existent in the RTPPRoxy;
 
 == Server scheduling ==
