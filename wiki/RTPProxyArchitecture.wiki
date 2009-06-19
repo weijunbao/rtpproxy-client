@@ -1,3 +1,0 @@
-#summary rtpproxy-client architecture
-
-TODO
