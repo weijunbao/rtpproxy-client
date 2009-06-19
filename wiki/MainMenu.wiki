@@ -5,4 +5,4 @@
  * [Changelog Changelog]
  * [RTPProxyProtocol RTPProxy Protocol]
  * [RTPProxyClientAPIDesign API Design]
- * [JIRA?tm=3 Issue Tracking]
+ * [JIRA Issue Tracking]
