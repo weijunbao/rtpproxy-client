@@ -4,5 +4,5 @@
  * [Features Features]
  * [Changelog Changelog]
  * [RTPProxyProtocol RTPProxy Protocol]
- * [RTPProxyArchtecture API Design]
+ * [RTPProxyClientAPIDesign API Design]
  * [JIRA Issue Tracking]
