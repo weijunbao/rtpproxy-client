@@ -1,6 +1,11 @@
 #summary Changelog of project versions.
 #labels Featured
 
+= Version 0.1.1 =
+
+ * Bug Fix
+   * *[http://jira.vtlabs.org/browse/RTPPC-4 RTPPC-4]*: AppData object isn't being passed in the callback methods of RTPProxy-Client API.
+
 = Version 0.1 =
 
  * Operations
