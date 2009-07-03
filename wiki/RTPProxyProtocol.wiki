@@ -14,7 +14,7 @@ COOKIE COMMAND ARGUMENTS
 
  * _COOKIE_ is an arbitrary string identifying the the command. The response for that command will have the same prefix.
 
- * _COMMAND_ and _ARGUMENTS_ are that described in the [http://www.b2bua.org/wiki/RTPproxy/Protocol RTPProxy Protocol documentation].
+ * _COMMAND_ and _ARGUMENTS_ are those described in the [http://www.b2bua.org/wiki/RTPproxy/Protocol RTPProxy Protocol documentation].
 
 <br>
 
