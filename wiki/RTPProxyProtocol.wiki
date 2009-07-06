@@ -23,5 +23,5 @@ COOKIE COMMAND ARGUMENTS
 || *Code* || *Command* || *Description* || *Most common cause* ||
 || E0 || any || Syntax error || ||
 || E3 || any || Unknown command || ||
-|| E8 || D _(delete)_ || delete request failed: session _CALL_ID_, tags _FROMTAG_/_TOTAG_ not found || ||
+|| E8 || D _(delete)_ || delete request failed: session _CALL_ID_, tags _FROMTAG_/_TOTAG_ not found || Session timed out in the RTPProxy server. ||
 || E10 || U _(update)_ || can't bind to the IPv4 port XXXXX: Cannot assign requested address || RTPProxy server was bound to an invalid address (-l parameter). The listen address is not verified in the server initialization. ||
