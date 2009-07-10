@@ -2,7 +2,14 @@
 
  * [MainPage Home/Search]
  * [Features Features]
- * [Changelog Changelog]
+
+<br>
+
+ * [http://jira.vtlabs.org/browse/RTPPC?report=com.atlassian.jira.plugin.system.project:changelog-panel Changelog]
+ * [http://jira.vtlabs.org/browse/RTPPC?report=com.atlassian.jira.plugin.system.project:roadmap-panel Road Map]
+ * [JIRA Issue Tracking]
+
+<br>
+
  * [RTPProxyProtocol RTPProxy Protocol]
  * [RTPProxyClientAPIDesign API Design]
- * [JIRA Issue Tracking]
