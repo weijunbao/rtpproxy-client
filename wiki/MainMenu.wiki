@@ -6,7 +6,7 @@
 
  * [http://jira.vtlabs.org/browse/RTPPC?report=com.atlassian.jira.plugin.system.project:changelog-panel Change Log]
  * [http://jira.vtlabs.org/browse/RTPPC?report=com.atlassian.jira.plugin.system.project:roadmap-panel Road Map]
- * [JIRA Issue Tracking]
+ * [http://jira.vtlabs.org/browse/RTPPC Issue Tracking]
 ----
 
  * [RTPProxyProtocol RTPProxy Protocol]
