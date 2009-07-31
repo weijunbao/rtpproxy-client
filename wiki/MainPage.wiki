@@ -1,2 +1,3 @@
 #summary rtpproxy-client project wiki.
-#labels TODO
+
+Sorry but there is almost no usage documentation yet. If the [http://rtpproxy-client.googlecode.com/files/rtpproxy-client-api-0.2-javadoc.jar API documentation] wasn't enough please issue a message in our [http://groups.google.com/group/rtpproxy-client mailing list].
