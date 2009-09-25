@@ -6,7 +6,7 @@
     <artifactId>rtpproxy-client</artifactId>
     <name>RTPProxy Client</name>
     <packaging>pom</packaging>
-    <version>0.3-SNAPSHOT</version>
+    <version>0.2</version>
 
     <description>Java client API to interact with RTPProxy.</description>
 
@@ -33,13 +33,13 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>1.5.6</version>
-            <scope>test</scope>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.14</version>
-            <scope>test</scope>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
